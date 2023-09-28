@@ -13,4 +13,4 @@ Solutions are organised in the following manner:
 | Day | Leetcode Title                                                     | Category        | Solution                                                  |
 | --- | ------------------------------------------------------------------ | --------------- | --------------------------------------------------------- |
 | 1   | [amazon - kspikes](/solutions/real-interviews/1-amazon-kspikes.py) | real-interviews | check every element in array whether it is a spike or not |
-| 1   | [amazon - regex](/solutions/real-interviews/1-amazon-regex.py)     | real-interviews | solution                                                  |
+| 1   | [amazon - regex](/solutions/real-interviews/1-amazon-regex.py)     | real-interviews | null                                                      |
