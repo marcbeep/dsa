@@ -15,3 +15,4 @@ Solutions are organised in the following manner:
 | 1   | [amazon - kspikes](/solutions/real-interviews/1-amazon-kspikes.py)  | real-interviews | check every element in array whether it is a spike or not |
 | 1   | [amazon - regex](/solutions/real-interviews/1-amazon-regex.py)      | real-interviews | null                                                      |
 | 2   | [merge sorted array](/solutions/array-string/2-mergesortedarray.py) | array-string    | compare last 2 elements, work backward                    |
+| 3   | [remove element](/solutions/array-string/3-removeelement.py)        | array-string    | null                                                      |
