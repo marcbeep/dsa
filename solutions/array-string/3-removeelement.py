@@ -1,18 +1,24 @@
 """
-removeelements removes all occurrences of a specified val
+removeelements removes all occurrences of a 
+specified val
 in the input array nums
 """
 
 
 def removeelements(nums, val):
-    # Counter used to keep track of index where non-equal elements should be placed
+    # Counter used to keep track of index where
+    # non-equal elements should be placed
     k = 0
 
     for i in range(len(nums)):
-        # Check if current element not equal to specified value
+        # Check if current element not equal to
+        # specified value
         if nums[i] != val:
             # Update nums[k] with the current element
-            # Ensures all non-equal elements moved to front of array and k now represents the count of elements not equal to val
+            # Ensures all non-equal elements moved to
+            # front of array
+            # and k now represents the count of elements
+            # not equal to val
             nums[k] = nums[i]
             k += 1
 
